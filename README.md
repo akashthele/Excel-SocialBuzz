@@ -1,14 +1,20 @@
 # Excel-SocialBuzz
 
-Tasks:
-1.Identify which datasets will be required to answer the client’s business question
-2.Clean the datasets and merge them to prepare the data for analysis
-3.Determine the answer to the client’s business question
 
 Problem:
 1.Every day, Social Buzz receives over 100,000 posts, totaling 36,500,000 posts annually. Since all of the content is unstructured, it might be challenging to make sense of it all.
+
 2.Combining tables from the sample data set
+
 3.An analysis of their content categories that identifies the top five with the highest total popularity
+
+Tasks:
+1.Identify which datasets will be required to answer the client’s business question 
+
+2.Clean the datasets and merge them to prepare the data for analysis
+
+3.Determine the answer to the client’s business question
+
 
 
 During the simulation:
